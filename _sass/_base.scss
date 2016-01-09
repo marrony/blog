@@ -193,12 +193,22 @@ pre {
 
     > svg {
         display: inline-block;
-        width: 16px;
-        height: 16px;
+        width: 24px;
+        height: 24px;
         vertical-align: middle;
 
         path {
             fill: $grey-color;
         }
     }
+}
+
+/**
+ * KaTeX
+ */
+.equation {
+    border: 1px solid $grey-color-light;
+    border-radius: 3px;
+    background-color: #eef;
+    margin-bottom: 1rem;
 }
