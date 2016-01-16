@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marrony Neris personal blog</title>
+    <description>Here I'll try to post things related to sofware development, computer graphics, game development or anything related to technology
+</description>
+    <link>http://marrony.github.io/</link>
+    <atom:link href="http://marrony.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 15 Jan 2016 17:33:35 -0800</pubDate>
+    <lastBuildDate>Fri, 15 Jan 2016 17:33:35 -0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>My first post</title>
+        <description>&lt;p&gt;This is my very first post. In this blog I’ll post things related to software development, computer graphics, game development or anything related to technology.&lt;/p&gt;
+
+&lt;p&gt;The main goal of writing a blog is to serve as a reference to myself in the future by keeping track of things that call my attention during the time. Of course, this blog is not only for me, but for anyone who may be interessed in the topics posted here.&lt;/p&gt;
+
+&lt;p&gt;I expect to enable comments in the near future, so feedback will be appreciated.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Jan 2016 09:07:50 -0800</pubDate>
+        <link>http://marrony.github.io/2016/01/07/my-first-post.html</link>
+        <guid isPermaLink="true">http://marrony.github.io/2016/01/07/my-first-post.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
