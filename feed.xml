@@ -6,13 +6,52 @@
 </description>
     <link>http://marrony.github.io/</link>
     <atom:link href="http://marrony.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Jan 2016 00:38:00 -0800</pubDate>
-    <lastBuildDate>Sun, 17 Jan 2016 00:38:00 -0800</lastBuildDate>
+    <pubDate>Sun, 17 Jan 2016 12:33:27 -0800</pubDate>
+    <lastBuildDate>Sun, 17 Jan 2016 12:33:27 -0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
+        <title>Physically Based Rendering - Screenshots</title>
+        <description>&lt;p&gt;Here are some more screenshots showing my progress on PBR. The following screenshots show a metallic surface using different settings of roughness.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/physically_based_rendering_1.png&quot; alt=&quot;Physically Based Rendering 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/physically_based_rendering_2.png&quot; alt=&quot;Physically Based Rendering 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/physically_based_rendering_3.png&quot; alt=&quot;Physically Based Rendering 3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/physically_based_rendering_4.png&quot; alt=&quot;Physically Based Rendering 4&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/physically_based_rendering_5.png&quot; alt=&quot;Physically Based Rendering 5&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/physically_based_rendering_6.png&quot; alt=&quot;Physically Based Rendering 6&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here are some screenshots using normal maps&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/physically_based_rendering_7.png&quot; alt=&quot;Physically Based Rendering 7&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/physically_based_rendering_8.png&quot; alt=&quot;Physically Based Rendering 8&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/physically_based_rendering_9.png&quot; alt=&quot;Physically Based Rendering 9&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/physically_based_rendering_10.png&quot; alt=&quot;Physically Based Rendering 10&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/physically_based_rendering_11.png&quot; alt=&quot;Physically Based Rendering 11&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/physically_based_rendering_12.png&quot; alt=&quot;Physically Based Rendering 12&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;TODO: Write an article/tutorial about physically based rendering&lt;/p&gt;
+</description>
+        <pubDate>Sun, 17 Jan 2016 00:54:22 -0800</pubDate>
+        <link>http://marrony.github.io/2016/01/17/physically-based-rendering-screenshots.html</link>
+        <guid isPermaLink="true">http://marrony.github.io/2016/01/17/physically-based-rendering-screenshots.html</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>Subsurface Scattering - Screenshots</title>
-        <description>&lt;p&gt;Here are some screenshots of what I’ve accomplished so far&lt;/p&gt;
+        <description>&lt;p&gt;Here are some screenshots of what I’ve accomplished so far on subsurface scattering. I still need to improve a lot and add skin rendering. So far I can only simulate surfaces like plastic and wax.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/subsurface_scattering_1.png&quot; alt=&quot;Subsurface Scattering 1&quot; /&gt;&lt;/p&gt;
 
@@ -22,16 +61,16 @@
 
 &lt;p&gt;TODO: Write an article/tutorial about subsurface scattering&lt;/p&gt;
 </description>
-        <pubDate>Sun, 17 Jan 2016 08:47:04 -0800</pubDate>
-        <link>http://marrony.github.io/2016/01/17/subsurface-scattering-screenshots.html</link>
-        <guid isPermaLink="true">http://marrony.github.io/2016/01/17/subsurface-scattering-screenshots.html</guid>
+        <pubDate>Sat, 16 Jan 2016 08:47:04 -0800</pubDate>
+        <link>http://marrony.github.io/2016/01/16/subsurface-scattering-screenshots.html</link>
+        <guid isPermaLink="true">http://marrony.github.io/2016/01/16/subsurface-scattering-screenshots.html</guid>
         
         
       </item>
     
       <item>
         <title>Dual Depth Peeling - Screenshots</title>
-        <description>&lt;p&gt;Here are some screenshots of what I’ve accomplished so far&lt;/p&gt;
+        <description>&lt;p&gt;Here are some screenshots of what I’ve accomplished so far regarding transparency. As you can see on screenshots, this example contain many layers of transparency regardless of the order it has been rendered.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/dual_depth_peeling_1.png&quot; alt=&quot;Dual Depth Peeling 1&quot; /&gt;&lt;/p&gt;
 
@@ -41,9 +80,9 @@
 
 &lt;p&gt;TODO: Write an article/tutorial about dual depth peeling&lt;/p&gt;
 </description>
-        <pubDate>Sat, 16 Jan 2016 08:47:04 -0800</pubDate>
-        <link>http://marrony.github.io/2016/01/16/dual-depth-peeling-screenshots.html</link>
-        <guid isPermaLink="true">http://marrony.github.io/2016/01/16/dual-depth-peeling-screenshots.html</guid>
+        <pubDate>Thu, 14 Jan 2016 18:47:04 -0800</pubDate>
+        <link>http://marrony.github.io/2016/01/14/dual-depth-peeling-screenshots.html</link>
+        <guid isPermaLink="true">http://marrony.github.io/2016/01/14/dual-depth-peeling-screenshots.html</guid>
         
         
       </item>
