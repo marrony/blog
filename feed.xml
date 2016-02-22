@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marrony Neris personal blog</title>
-    <description>Here I'll try to post things related to sofware development, computer graphics, game development or anything related to technology
+    <description>Here I&#39;ll try to post things related to sofware development, computer graphics, game development or anything related to technology
 </description>
     <link>http://marrony.github.io/</link>
     <atom:link href="http://marrony.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Jan 2016 17:24:18 -0800</pubDate>
-    <lastBuildDate>Fri, 22 Jan 2016 17:24:18 -0800</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Sun, 21 Feb 2016 23:55:21 -0300</pubDate>
+    <lastBuildDate>Sun, 21 Feb 2016 23:55:21 -0300</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>Physically Based Rendering - Screenshots</title>
@@ -42,7 +42,7 @@
 
 &lt;p&gt;TODO: Write an article/tutorial about physically based rendering&lt;/p&gt;
 </description>
-        <pubDate>Sun, 17 Jan 2016 00:54:22 -0800</pubDate>
+        <pubDate>Sun, 17 Jan 2016 06:54:22 -0200</pubDate>
         <link>http://marrony.github.io/2016/01/17/physically-based-rendering-screenshots.html</link>
         <guid isPermaLink="true">http://marrony.github.io/2016/01/17/physically-based-rendering-screenshots.html</guid>
         
@@ -61,7 +61,7 @@
 
 &lt;p&gt;TODO: Write an article/tutorial about subsurface scattering&lt;/p&gt;
 </description>
-        <pubDate>Sat, 16 Jan 2016 08:47:04 -0800</pubDate>
+        <pubDate>Sat, 16 Jan 2016 14:47:04 -0200</pubDate>
         <link>http://marrony.github.io/2016/01/16/subsurface-scattering-screenshots.html</link>
         <guid isPermaLink="true">http://marrony.github.io/2016/01/16/subsurface-scattering-screenshots.html</guid>
         
@@ -80,9 +80,9 @@
 
 &lt;p&gt;TODO: Write an article/tutorial about dual depth peeling&lt;/p&gt;
 </description>
-        <pubDate>Thu, 14 Jan 2016 18:47:04 -0800</pubDate>
-        <link>http://marrony.github.io/2016/01/14/dual-depth-peeling-screenshots.html</link>
-        <guid isPermaLink="true">http://marrony.github.io/2016/01/14/dual-depth-peeling-screenshots.html</guid>
+        <pubDate>Fri, 15 Jan 2016 00:47:04 -0200</pubDate>
+        <link>http://marrony.github.io/2016/01/15/dual-depth-peeling-screenshots.html</link>
+        <guid isPermaLink="true">http://marrony.github.io/2016/01/15/dual-depth-peeling-screenshots.html</guid>
         
         
       </item>
@@ -95,7 +95,7 @@
 
 &lt;p&gt;I expect to enable comments in the near future, so feedback will be appreciated.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 07 Jan 2016 09:07:50 -0800</pubDate>
+        <pubDate>Thu, 07 Jan 2016 15:07:50 -0200</pubDate>
         <link>http://marrony.github.io/2016/01/07/my-first-post.html</link>
         <guid isPermaLink="true">http://marrony.github.io/2016/01/07/my-first-post.html</guid>
         
